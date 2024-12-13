@@ -1,6 +1,7 @@
 # Institute-Management-System-
 Institute Management System The Institute Management System is a software application designed to streamline the management of academic and administrative activities within an educational institution.
-#Diagrams
+
+# Diagrams
 Use Case Diagram:
 Illustrates the interactions between users (e.g., Admin, Teachers, Students) and the system functionalities, such as managing courses, scheduling classes, tracking attendance, and fee payments.
 
